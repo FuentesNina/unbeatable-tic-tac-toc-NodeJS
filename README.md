@@ -15,7 +15,7 @@ Things that could be added: the option to play against an actual person (can be 
 The algorythm created will be used to enhance the behavior of the React Tic-Tac-Toe game I created previously.
 
 
-# Languagues & Tools
+## Languagues & Tools
 - Javascript
 - Node.JS
 - VSCode
